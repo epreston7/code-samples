@@ -6,19 +6,19 @@ __Advanced Programming for Games:__
 
 
 __Advanced Graphics for Games:__
-*_renderer.cpp_
-*_reflectFragment.glsl_
-*_bumpFragment.glsl_
-*_bumpVertex.glsl_
+* _renderer.cpp_
+* _reflectFragment.glsl_
+* _bumpFragment.glsl_
+* _bumpVertex.glsl_
 
 __Advanced Game Technologies:__
-*_CourseworkGame.cpp_
-*_CourseworkGame.h_
-*_Goose.h_
+* _CourseworkGame.cpp_
+* _CourseworkGame.h_
+* _Goose.h_
 
 __Engineering Gaming Solutions within a Team:__
-*_bhColl.cs_
-*_golfBallMovement.cs_
-*_snowballStick.cs_
+* _bhColl.cs_
+* _golfBallMovement.cs_
+* _snowballStick.cs_
 
 
