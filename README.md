@@ -24,6 +24,6 @@ __Engineering Gaming Solutions within a Team:__
 These scripts are C# scripts written for my fast prototype of the team project game made in Unity. The project was a golf game where the fundamentals can be changed by the player (a mixture of What the Golf, and Baba is You)
 * _bhColl.cs:_ Collision behaviour for the golf ball.
 * _golfBallMovement.cs:_ How the golf ball moves, using the mouse click to decide direction and how long the button is down to determine the power of the hit.
-* _snowballStick.cs:_ Adds a fixed joing to the golf ball and 'sticky snowball' that a snowman throws.
+* _snowballStick.cs:_ Adds a fixed joint to the golf ball and 'sticky snowball' that a snowman throws.
 
 
